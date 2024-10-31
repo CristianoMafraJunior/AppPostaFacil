@@ -1,0 +1,2 @@
+name,email,password,cpf,date_of_birth,street,city_id,gender,is_active,phone
+Cristiano Mafra Junior, cristiano@gmail.com, 1234, 909090909, 2004-01-28, Rua Teste,Canelinha,SC,Masculino,1,48-99999999
